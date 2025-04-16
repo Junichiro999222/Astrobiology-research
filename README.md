@@ -7,18 +7,6 @@ Each subfolder corresponds to a major theme in planetary science, impact modelin
 
 ## 🔬 Projects Overview
 
-### 🛰 iSALE (Hypervelocity Impact)
-
-Simulations and analysis of **hypervelocity impacts** using the iSALE shock physics code.  
-Includes crater formation, pressure decay, and mesh sensitivity studies.
-
-**Sample notebooks:**
-- `240326_cratergrowth.ipynb`
-- `240411 asteroid.ipynb`
-- `240324 Grid_Spacing.ipynb`
-
----
-
 ### 💡 P4P (Laser Irradiation)
 
 Analysis of **laser-driven particle plume (P4P)** experiments.  
@@ -39,6 +27,18 @@ Includes **custom-built physics model** in `PI.ipynb`, developed from scratch.
 **Sample notebooks:**
 - `PI.ipynb` — ⚛️ *Custom physical model of photoionization*
 - `QMS_analysis.ipynb`
+
+---
+
+### 🛰 iSALE (Hypervelocity Impact)
+
+Simulations and analysis of **hypervelocity impacts** using the iSALE shock physics code.  
+Includes crater formation, pressure decay, and mesh sensitivity studies.
+
+**Sample notebooks:**
+- `240326_cratergrowth.ipynb`
+- `240411 asteroid.ipynb`
+- `240324 Grid_Spacing.ipynb`
 
 ---
 
